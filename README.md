@@ -19,6 +19,7 @@
 
   + Train and test some machine learning models
   + Upload the results of the best machine learning model trained
+  + Make a pull request with your ppt in ppt folder
   + Have fun :smile:
   
 
